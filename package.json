@@ -1,0 +1,23 @@
+{
+  "name": "package-json-inventory",
+  "version": "1.0.0",
+  "description": "Simple application to parse package.json for dependencies and versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanjo03/package-json-inventory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanjo03/package-json-inventory/issues"
+  },
+  "homepage": "https://github.com/evanjo03/package-json-inventory#readme",
+  "dependencies": {
+    "inquirer": "^7.0.3"
+  }
+}
